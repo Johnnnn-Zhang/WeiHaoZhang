@@ -60,3 +60,9 @@ In the event of another global pandemic, we think it is of the utmost importance
 
 ![](Picture9.png)
 *Figure 9: The positive covid test bar from Liam Horner*
+
+### 4. Reference
+
+Eva, S. (2023). Personal interview.
+
+Tahlia, F. (2023). Personal interview.
