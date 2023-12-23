@@ -61,13 +61,13 @@ In the event of another global pandemic, we think it is of the utmost importance
 ![](Picture9.png)
 *Figure 9: The positive covid test bar from Liam Horner*
 
-### 4. Reference
+### 4. References
+
+Cairo, C. (2016). The Truthful Art: Data, Charts, and Maps for Communication. New Riders. 
 
 “COVID-19 Vaccine Administration by Vaccine Type and Dose in Ottawa”. City of Ottawa.  (2023). https://open.ottawa.ca/datasets/ottawa::covid-19-vaccine-administration-by-vaccine-type-and-dose-in-ottawa/explore
 
 “COVID-19 Vaccine Coverage by Day by Age by Dose for Ottawa Residents”. City of Ottawa. (2023). https://open.ottawa.ca/datasets/ottawa::covid-19-vaccine-coverage-by-day-by-age-by-dose-for-ottawa-residents/explore
-
-Cairo, C. (2016). The Truthful Art: Data, Charts, and Maps for Communication. New Riders. 
 
 Eva, S. (2023). Personal interview.
 
